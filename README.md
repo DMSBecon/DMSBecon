@@ -1,6 +1,6 @@
-### Hi there scholars 📝
+# Hi there scholars 📝
 
-# Welcome to the DMSB Econ grad student profile.
+### Welcome to the DMSB Econ grad student profile.
 <!--
 
 
